@@ -3,6 +3,6 @@
 ## By Julien Vayssiere and Daniel Kalbert
 
 
-### Start with the **englisch version** [here](./en/step1.md)
+### Start with the **englisch version** [here](./en/start.md)
 
-### Starte mit der **Deutschen Version** [hier](./de/schritt1.md)
+### Starte mit der **Deutschen Version** [hier](./de/start.md)
