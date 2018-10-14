@@ -1,8 +1,3 @@
----
-title: Start
-layout: post
----
-
 # Start
 
 ## Table of Contents
