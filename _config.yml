@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Arduino Workshop Guide
+tagline:          'Getting started with Arduino'
+description:      'An English and German guide that helps you through the first steps of Arduino Programming'
+url:              https://dkalbert.github.io/pagestest/
+baseurl:          /
+
+author:
+  name:           'Julien Vayssiere and Daniel Kalbert'
+  url:            https://github.com/dkalbert/pagestest
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/dkalbert/pagestest
